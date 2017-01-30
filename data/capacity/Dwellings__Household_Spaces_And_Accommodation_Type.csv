@@ -1,0 +1,27 @@
+Property Type,Calculation,Count of,Date collected,"Bristol, City of",South West,England
+All Dwellings,Count,Dwellings,Mar-11,188438,2401289,22976066
+Unshared Dwelling,Count,Dwellings,Mar-11,187980,2399113,22955448
+Unshared Dwelling,Percentage,Dwellings,Mar-11,99.8,99.9,99.9
+Shared Dwelling; Two Household Spaces,Count,Dwellings,Mar-11,127,639,6700
+Shared Dwelling; Two Household Spaces,Percentage,Dwellings,Mar-11,0.1,0,0
+Shared Dwelling; Three or More Household Spaces,Count,Dwellings,Mar-11,331,1537,13918
+Shared Dwelling; Three or More Household Spaces,Percentage,Dwellings,Mar-11,0.2,0.1,0.1
+All Household Spaces,Count,Household Spaces,Mar-11,189885,2408437,23044097
+Household Spaces With At Least One Usual Resident,Count,Household Spaces,Mar-11,182747,2264641,22063368
+Household Spaces With At Least One Usual Resident,Percentage,Household Spaces,Mar-11,96.2,94,95.7
+Household Spaces With No Usual Residents,Count,Household Spaces,Mar-11,7138,143796,980729
+Household Spaces With No Usual Residents,Percentage,Household Spaces,Mar-11,3.8,6,4.3
+Whole House or Bungalow; Detached,Count,Household Spaces,Mar-11,11164,716955,5128552
+Whole House or Bungalow; Detached,Percentage,Household Spaces,Mar-11,5.9,29.8,22.3
+Whole House or Bungalow; Semi-Detached,Count,Household Spaces,Mar-11,49983,656137,7076395
+Whole House or Bungalow; Semi-Detached,Percentage,Household Spaces,Mar-11,26.3,27.2,30.7
+Whole House or Bungalow; Terraced (Including End-Terrace),Count,Household Spaces,Mar-11,63331,559150,5642969
+Whole House or Bungalow; Terraced (Including End-Terrace),Percentage,Household Spaces,Mar-11,33.4,23.2,24.5
+"Flat, Maisonette or Apartment; Purpose-Built Block of Flats or Tenement",Count,Household Spaces,Mar-11,40016,308081,3854451
+"Flat, Maisonette or Apartment; Purpose-Built Block of Flats or Tenement",Percentage,Household Spaces,Mar-11,21.1,12.8,16.7
+"Flat, Maisonette or Apartment; Part of a Converted or Shared House (Including Bed-Sits)",Count,Household Spaces,Mar-11,22074,120358,984284
+"Flat, Maisonette or Apartment; Part of a Converted or Shared House (Including Bed-Sits)",Percentage,Household Spaces,Mar-11,11.6,5,4.3
+"Flat, Maisonette or Apartment; In Commercial Building",Count,Household Spaces,Mar-11,3149,28819,257218
+"Flat, Maisonette or Apartment; In Commercial Building",Percentage,Household Spaces,Mar-11,1.7,1.2,1.1
+Caravan or Other Mobile or Temporary Structure,Count,Household Spaces,Mar-11,168,18937,100228
+Caravan or Other Mobile or Temporary Structure,Percentage,Household Spaces,Mar-11,0.1,0.8,0.4
