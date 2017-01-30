@@ -1,0 +1,18 @@
+Criteria,Calculation,Count of,Date collected,"Bristol, City of",South West,England
+All Households,Count,Households,Mar-11,182747,2264641,22063368
+Owned; Owned Outright,Count,Households,Mar-11,44928,801786,6745584
+Owned; Owned Outright,Percentage,Households,Mar-11,24.6,35.4,30.6
+Owned; Owned with a Mortgage or Loan,Count,Households,Mar-11,53780,725172,7229440
+Owned; Owned with a Mortgage or Loan,Percentage,Households,Mar-11,29.4,32,32.8
+Shared Ownership (Part Owned and Part Rented),Count,Households,Mar-11,1385,17116,173760
+Shared Ownership (Part Owned and Part Rented),Percentage,Households,Mar-11,0.8,0.8,0.8
+Social Rented; Rented from Council (Local Authority),Count,Households,Mar-11,26494,130652,2079778
+Social Rented; Rented from Council (Local Authority),Percentage,Households,Mar-11,14.5,5.8,9.4
+Social Rented; Other,Count,Households,Mar-11,10589,170868,1823772
+Social Rented; Other,Percentage,Households,Mar-11,5.8,7.5,8.3
+Private Rented; Private Landlord or Letting Agency,Count,Households,Mar-11,40401,345229,3401675
+Private Rented; Private Landlord or Letting Agency,Percentage,Households,Mar-11,22.1,15.2,15.4
+Private Rented; Other,Count,Households,Mar-11,2627,41905,314249
+Private Rented; Other,Percentage,Households,Mar-11,1.4,1.9,1.4
+Living Rent Free,Count,Households,Mar-11,2543,31913,295110
+Living Rent Free,Percentage,Households,Mar-11,1.4,1.4,1.3
